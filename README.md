@@ -12,7 +12,7 @@
 - 💬 Ask me about **Web Development, FrontEnd Web Development,Python**
 
 - 📫 Reach me at **chaanakyaam@gmail.com**
-<video autoplay loop muted  height="300" src="https://www.bing.com/th/id/OGC.b4267aa6200e164ce11d0827053bd11f?pid=1.7&rurl=https%3a%2f%2fc.tenor.com%2fUg6cbVA1ZsMAAAAd%2fdeveloper.gif&ehk=VwnAJ0DhJmRDZ20gD5B7pBFQPTtfPZXaVm%2fa3liNYoU%3d">
+<img src="https://www.bing.com/th/id/OGC.b4267aa6200e164ce11d0827053bd11fpid=1.7&rurl=https%3a%2f%2fc.tenor.com%2fUg6cbVA1ZsMAAAAd%2fdeveloper.gif&ehk=VwnAJ0DhJmRDZ20gD5B7pBFQPTtfPZXaVm%2fa3liNYoU%3d">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/chaanakyaa m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chaanakyaa m" height="30" width="40" /></a>
