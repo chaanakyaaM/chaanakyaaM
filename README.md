@@ -29,6 +29,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaanakyaam&show_icons=true&locale=en&layout=compact" alt="chaanakyaam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaanakyaam&show_icons=true&locale=en" alt="chaanakyaam" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaanakyaam&show_icons=true&locale=en" alt="chaanakyaam" /></p>-->4
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaanakyaaM&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="chaanakyaam" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaanakyaam&" alt="chaanakyaam" /></p>
