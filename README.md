@@ -13,6 +13,7 @@
 - 💬 Ask me about **Web Development, FrontEnd Web Development,Python**
 
 - 📫 Reach me at **chaanakyaam@gmail.com**
+<--<img src="https://c.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">-->
 <img src="https://c.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
