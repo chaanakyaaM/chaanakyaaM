@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaanakyaam&label=Profile%20views&color=0e75b6&style=flat" alt="chaanakyaam" /> </p>
 
-<p align="left"> <a href="https://github-trophies.vercel.app/?username=chaanakyaaM&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="chaanakyaam" /></a> </p>
+<p align="left"> <a href="https://github-trophies.vercel.app/?username=chaanakyaaM&theme=radical&no-frame=false&no-bg=false&margin" alt="chaanakyaam" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mchaanakyaa" target="blank"><img src="https://img.shields.io/twitter/follow/mchaanakyaa?logo=twitter&style=for-the-badge" alt="mchaanakyaa" /></a> </p>
 
