@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Machine Learning developer from India</h3>
 <h3 align="center">Currently Learning Frontend Web Development</h3>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaanakyaam&label=Profile%20views&color=0e75b6&style=flat" alt="chaanakyaam" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaanakyaam&label=Profile%20views&color=0e75b6&style=flat" alt="chaanakyaam" /> </p>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=chaanakyaaM" alt="chaanakyaam" /></a> </p>
 
