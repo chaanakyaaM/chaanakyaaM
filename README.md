@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaanakyaaM&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="chaanakyaam" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaanakyaaM&theme=tokyonight&hide_border=true" alt="chaanakyaam" /></p>
+
+
+<p><img src='https://github.com/chaanakyaaM/chaanakyaaM/assets/131477601/368f9535-58d0-4e76-b5bc-82a24564c7b0'></p>
