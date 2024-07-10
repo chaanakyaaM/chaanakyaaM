@@ -34,5 +34,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaanakyaaM&theme=tokyonight&hide_border=true" alt="chaanakyaam" /></p>
 
 
-<h3 align="left">Badges Earned:</h3>
+<h3 align="left">Badges Earned (From GSSOC'24):</h3>
 <p><img src="https://github.com/chaanakyaaM/chaanakyaaM/assets/131477601/5eb5cc58-b34a-4fa5-8046-c1aafb7592a9"></p>
