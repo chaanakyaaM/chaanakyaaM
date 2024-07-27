@@ -30,7 +30,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaanakyaaM&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="chaanakyaam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaanakyaaM&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="chaanakyaam" />
-
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaanakyaaM&theme=tokyonight&hide_border=true" alt="chaanakyaam" /></p>
 
 
