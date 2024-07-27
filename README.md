@@ -36,4 +36,4 @@
 
 <h3 align="left">Badges Earned (From GSSOC'24):</h3>
 <p><img src="https://github.com/chaanakyaaM/chaanakyaaM/assets/131477601/5eb5cc58-b34a-4fa5-8046-c1aafb7592a9"></p>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" height='200px'/>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" height='180px'/>
