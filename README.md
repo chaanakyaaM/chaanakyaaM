@@ -32,51 +32,24 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaanakyaaM&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="chaanakyaam" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaanakyaaM&theme=tokyonight&hide_border=true" alt="chaanakyaam" /></p>
-<table align="center">
-  <tr align="center">
-    <td  align="center">
-      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Postman%20Badge.png" alt="GSSoC'24 Postman Badge" width="100" />
-      <br>
+
+  <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Postman%20Badge.png" alt="GSSoC'24 Postman Badge" width="100" />
       <strong>Postman</strong>
-    </td>
-    <td  align="center">
-      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="100" />
-      <br>
+       <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="100" />
       <strong>Explorer</strong>
-    </td>
-    <td  align="center">
-      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Adventurer%20Badge.png" alt="GSSoC'24 Adventurer Badge" width="100" />
-      <br>
+   <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Adventurer%20Badge.png" alt="GSSoC'24 Adventurer Badge" width="100" />
       <strong>Adventurer</strong>
-    </td>
-    <td  align="center">
       <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Trailblazer%20Badge.png" alt="GSSoC'24 Trailblazer Badge" width="100" />
-      <br>
       <strong>Trailblazer</strong>
-    </td>
-    <td  align="center">
-      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Summit%20Seeker%20Badge.png" alt="GSSoC'24 Summit Seeker Badge" width="86" />
-      <br>
+        <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Summit%20Seeker%20Badge.png" alt="GSSoC'24 Summit Seeker Badge" width="86" />
       <strong>SummitSeeker</strong>
-    </td>
-    <td  align="center">
-      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Champion%20Badge.png" alt="GSSoC'24 Champion Badge" width="100" />
-      <br>
+       <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Champion%20Badge.png" alt="GSSoC'24 Champion Badge" width="100" />
       <strong>Champion</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Innovator%20Bage.png" alt="GSSoC'24 Innovator Badge" width="100" />
-      <br>
+       <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Innovator%20Bage.png" alt="GSSoC'24 Innovator Badge" width="100" />
       <strong>Innovator</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Conqurer%20Badge.png" alt="GSSoC'24 Conqurer Badge" width="90" />
-      <br>
+  <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Conqurer%20Badge.png" alt="GSSoC'24 Conqurer Badge" width="90" />
       <strong>Conqurer</strong>
-    </td>
-  </tr>
-</table>
-<br>
+
 <!--
 <h3 align="left">Badges Earned (From GSSOC'24):</h3>
 <p><img src="https://github.com/chaanakyaaM/chaanakyaaM/assets/131477601/5eb5cc58-b34a-4fa5-8046-c1aafb7592a9"></p>
