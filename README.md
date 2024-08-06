@@ -33,6 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaanakyaaM&theme=tokyonight&hide_border=true" alt="chaanakyaam" /></p>
 
+<h3 align="left">Badges Earned (From GSSOC'24):</h3>
 <p align="center>
   <span>
     <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="120" />
