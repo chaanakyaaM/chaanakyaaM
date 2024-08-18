@@ -13,7 +13,7 @@
 - 💬 Ask me about **Web Development, FrontEnd Web Development,Python**
 
 - 📫 Reach me at **chaanakyaam@gmail.com**
-<!--<img src="https://c.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">-->
+  <img src="https://c.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,26 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaanakyaaM&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="chaanakyaam" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaanakyaaM&theme=tokyonight&hide_border=true" alt="chaanakyaam" /></p>
-<!--
-<h3 align="left">Badges Earned (From GSSOC'24):</h3>
-<p align="center>
-  <span>
-    <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="120" />
-    <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="120" />
-    <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Adventurer%20Badge.png" alt="GSSoC'24 Adventurer Badge" width="120" />
-    <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Trailblazer%20Badge.png" alt="GSSoC'24 Trailblazer Badge" width="120" />
-    <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Summit%20Seeker%20Badge.png" alt="GSSoC'24 Summit Seeker Badge" width="120" />
-    <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Champion%20Badge.png" alt="GSSoC'24 Champion Badge" width="120" />
-    <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Innovator%20Bage.png" alt="GSSoC'24 Innovator Badge" width="120" />
-    <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Conqurer%20Badge.png" alt="GSSoC'24 Conqurer Badge" width="120" /> 
-  </span>
-</p>
-  
 
-<!--
-<h3 align="left">Badges Earned (From GSSOC'24):</h3>
-<p><img src="https://github.com/chaanakyaaM/chaanakyaaM/assets/131477601/5eb5cc58-b34a-4fa5-8046-c1aafb7592a9"></p>
-<img src="https://gssoc.girlscript.tech/badges/7.png?imwidth=96" height="200px"/>-->
-<!--
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" height='180px'/> 
--->
+
