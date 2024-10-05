@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **FrontEnd Web Development**
 
-- 💬 Ask me about **Web Development, FrontEnd Web Development,Python**
+- 💬 Ask me about **Web Development, FrontEnd Web Development,Python, Open Source Contributions**
 
 - 📫 Reach me at **chaanakyaam@gmail.com**
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
