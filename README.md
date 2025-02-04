@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mchaanakyaa" target="blank"><img src="https://img.shields.io/twitter/follow/mchaanakyaa?logo=twitter&style=for-the-badge" alt="mchaanakyaa" /></a> </p>
 
-- 🌱 I’m currently learning **FrontEnd Web Development**
+- 🌱 I’m currently learning **BackEnd Web Development**
 
 - 💬 Ask me about **Web Development, FrontEnd Web Development,Python, Open Source Contributions**
 
